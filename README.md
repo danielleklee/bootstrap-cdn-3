@@ -1,0 +1,1 @@
+This is my assignment for the bootstrap cdn assignment. This one is about my love for thrifting and thrifted fashion. I added a jumbotron, cards, h1-h5's, call to action buttons, a footer, a nav, a bas nav.
